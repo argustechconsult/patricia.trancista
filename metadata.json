@@ -1,0 +1,8 @@
+{
+  "name": "Patrícia Transista Profissional",
+  "description": "Plataforma profissional para agendamento e gestão de tranças afro e estética capilar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
